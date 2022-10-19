@@ -13,8 +13,8 @@
 > pkg install libwebp
 > pkg install imagemagick
 > pkg install yarn
-> git clone https://github.com/Danzzxcodes/danzz-api
-> cd new
+> git clone https://github.com/Danzzxcodes/basebot-v1
+> cd basebot-v1
 > yarn
 > npm start
 ```
