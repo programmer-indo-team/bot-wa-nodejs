@@ -1,5 +1,23 @@
-# Notes
-Don't forget click star
+# ## Example bot from RestAPIs
+<a href="https://danzzapi.xyz">danzzapi.xyz</a>
 
-# Example Bot From Rest APIs
-<a href="https://danzzapi.xyz">danzzapi.xyz
+## Intalasi
+## For termux
+
+```
+> apt update && apt upgrade
+> pkg install git
+> pkg install nodejs
+> pkg install yarn
+> git clone https://github.com/Danzzxcodes/danzz-api
+> cd new
+> yarn
+> npm start
+```
+
+## Features list
+* Downloader
+* Asupan
+* Cecan
+* Cogan
+* Others
