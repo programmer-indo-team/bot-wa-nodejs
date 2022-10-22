@@ -6,12 +6,10 @@
 
 ```
 > apt update && apt upgrade
-> pkg install bash
 > pkg install git
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install libwebp
-> pkg install imagemagick
 > pkg install yarn
 > git clone https://github.com/Danzzxcodes/basebot-v1
 > cd basebot-v1
