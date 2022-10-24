@@ -20,7 +20,7 @@
 ## Heroku buildpack
 
 ```FFMPEG :```
-https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest
+https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest.git
 
 ```WEBP :```
 https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
