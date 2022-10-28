@@ -987,7 +987,7 @@ let buttons = [
 			break
 			
 		// Cogan
-		case 'cogan': {
+		case 'randomcogan': case 'cogan': {
             m.reply(mess.wait)
 			cogan = await getBuffer(`https://danzzapi.xyz/api/cogan/random?apikey=${global.apikey}`)
 			danzz.sendMessage(m.chat, {image: cogan, mimetype: 'image/png', caption: `Done`}, {quoted:m})
