@@ -11,7 +11,7 @@ global.APIKeys = {
 
 // Other
 global.apikey = ['danzz']
-global.apikeyprem = ['reybotz']
+global.apikeyprem = ['razanxx']
 global.namabot = ['Danzz Botz']
 global.namaowner = ['Danzz Coding']
 global.owner = ['6289512545999']
