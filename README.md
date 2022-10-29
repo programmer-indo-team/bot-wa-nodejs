@@ -47,7 +47,13 @@ https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
 * Asupan
 * Cecan
 * Cogan
+* Search
+* Text pro
+* Photo oxy
+* Ephoto
+* convert
 * Others
+* Owner
 
 ## Social media
 <a href="https://youtube.com/DanzzCoding">Youtube</a><br>
