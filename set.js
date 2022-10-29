@@ -10,8 +10,8 @@ global.APIKeys = {
 }
 
 // Other
-global.apikey = ['danzz'] // Get in: https://danzzapi.xyz
-global.apikeyprem = ['razanxx'] // Get in: https://danzzapi.xyz
+global.apikey = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
+global.apikeyprem = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.namabot = ['Danzz Botz']
 global.namaowner = ['Danzz Coding']
