@@ -520,175 +520,156 @@ Total Hit: ${totalcmd}
 Hit Today: ${hittoday}
 
 *TIME*
-Tanggal: ${hariini}
+Date: ${hariini}
 Wib: ${barat} WIB
 Wita: ${tengah} WITA
 Wit: ${timur} WIT
 
 *FEATURES*
 *Downloader*
-> ytplay [title]
-> ytplaymp3 [title]
-> ytplaymp4 [title]
-> ytmp3 [url]
-> ytmp4 [url]
-> ttvideo [url]
-> ttaudio [url]
-> mediafire [url]
+${symbol2} ${prefix}play [title]
+${symbol2} ${prefix}ytplaymp3 [title]
+${symbol2} ${prefix}ytplaymp4 [title]
+${symbol2} ${prefix}ytmp3 [url]
+${symbol2} ${prefix}ytmp4 [url]
+${symbol2} ${prefix}ttvideo [url]
+${symbol2} ${prefix}ttaudio [url]
+${symbol2} ${prefix}mediafire [url]
 
 *Asupan*
-> randomasupan
-> santuy
-> bocil
-> hijaber
-> ukhty
+${symbol2} ${prefix}randomasupan
+${symbol2} ${prefix}santuy
+${symbol2} ${prefix}bocil
+${symbol2} ${prefix}hijaber
+${symbol2} ${prefix}ukhty
 
 *Cecan*
-> randomcecan
-> hijaber
-> china
-> indonesia
-> japan
-> korea
-> thailand
-> vietnam
+${symbol2} ${prefix}randomcecan
+${symbol2} ${prefix}hijaber
+${symbol2} ${prefix}china
+${symbol2} ${prefix}indonesia
+${symbol2} ${prefix}japan
+${symbol2} ${prefix}korea
+${symbol2} ${prefix}thailand
+${symbol2} ${prefix}vietnam
 
 *Cogan*
-> randomcogan
+${symbol2} ${prefix}randomcogan
 
 *Search*
-> sticker [query]
-> gcwa [query]
-> pinterest [query]
+${symbol2} ${prefix}stickersearch [query]
+${symbol2} ${prefix}gcwa [query]
+${symbol2} ${prefix}pinterest [query]
 
 *Text Pro*
-> 3dchristmas [text]
-> 3ddeepsea [text]
-> americanflag [text]
-> 3dscifi [text]
-> 3drainbow [text]
-> 3dwaterpipe [text]
-> halloweenskeleton [text]
-> sketch [text]
-> bluecircuit [text]
-> space [text]
-> metallic [text]
-> fiction [text]
-> greenhorror [text]
-> transformer [text]
-> berry [text]
-> thunder [text]
-> magma [text]
-> 3dcrackedstone [text]
-> 3dneonlight [text]
-> impressiveglitch [text]
-> naturalleaves [text]
-> fireworksparkle [text]
-> matrix [text]
-> dropwater [text]
-> harrypotter [text]
-> foggywindow [text]
-> neondevils [text]
-> christmasholiday [text]
-> 3dgradient [text]
-> blackpink [text]
-> gluetext [text]
+${symbol2} ${prefix}pencil [text]
+${symbol2} ${prefix}glitch [text]
+${symbol2} ${prefix}glitch2 [text]
+${symbol2} ${prefix}glitchtiktok [text]
+${symbol2} ${prefix}berry [text]
+${symbol2} ${prefix}blackpink [text]
+${symbol2} ${prefix}neon [text]
+${symbol2} ${prefix}logobear [text]
+${symbol2} ${prefix}3dchristmas [text]
+${symbol2} ${prefix}thunder [text]
+${symbol2} ${prefix}3dbox [text]
+${symbol2} ${prefix}video-game-classic [text]
+${symbol2} ${prefix}marvel-studios [text]
+${symbol2} ${prefix}ninja-logo [text]
+${symbol2} ${prefix}green-horror [text]
+${symbol2} ${prefix}magma [text]
+${symbol2} ${prefix}3d-neon-light [text]
+${symbol2} ${prefix}3d-orange-juice [text]
+${symbol2} ${prefix}chocolate-cake [text]
+${symbol2} ${prefix}3dcrackedstone [text]
+${symbol2} ${prefix}strawberry [text]
 
 *Photo Oxy*
-> shadow [text]
-> romantic [text]
-> smoke [text]
-> burnpapper [text]
-> naruto [text]
-> lovemsg [text]
-> grassmsg [text]
-> lovetext [text]
-> coffecup [text]
-> butterfly [text]
-> harrypotter [text]
-> retrolol [text]
-
-*Ephoto*
-> ffcover [text]
-> crossfire [text]
-> galaxy [text]
-> glass [text]
-> neon [text]
-> beach [text]
-> blackpink [text]
-> igcertificate [text]
-> ytcertificate [text]
+${symbol2} ${prefix}flaming [text]
+${symbol2} ${prefix}shadow-sky [text]
+${symbol2} ${prefix}metallic [text]
+${symbol2} ${prefix}pubg [text]
+${symbol2} ${prefix}naruto [text]
+${symbol2} ${prefix}under-grass [text]
+${symbol2} ${prefix}harry-potter [text]
+${symbol2} ${prefix}flower-typography [text]
+${symbol2} ${prefix}night-sky [text]
 
 *Maker*
-> ttp [text]
-> attp [text]
+${symbol2} ${prefix}ttp [text]
+${symbol2} ${prefix}attp [text]
 
 *Fun*
-> rate [option]
-> siapakahaku
-> siapakahdia
-> cekmasadepan
-> cekpositifcovid
-> cekgay
-> ceklesby
-> cekganteng
-> cekcantik
-> cekkaya
-> cekmiskin
-> pantun
-> simih
-> halah
-> hilih
-> huluh
-> heleh
-> holoh
-> jadian
-> jodohku
-> delttt
-> tictactoe
-> family100
-> tebak [option]
-> math [mode]
-> suitpvp [@tag]
+${symbol2} ${prefix}rate [option]
+${symbol2} ${prefix}siapakahaku
+${symbol2} ${prefix}siapakahdia
+${symbol2} ${prefix}cekmasadepan
+${symbol2} ${prefix}cekpositifcovid
+${symbol2} ${prefix}cekgay
+${symbol2} ${prefix}ceklesby
+${symbol2} ${prefix}cekganteng
+${symbol2} ${prefix}cekcantik
+${symbol2} ${prefix}cekkaya
+${symbol2} ${prefix}cekmiskin
+${symbol2} ${prefix}pantun
+${symbol2} ${prefix}simih
+${symbol2} ${prefix}halah
+${symbol2} ${prefix}hilih
+${symbol2} ${prefix}huluh
+${symbol2} ${prefix}heleh
+${symbol2} ${prefix}holoh
+${symbol2} ${prefix}jadian
+${symbol2} ${prefix}jodohku
+${symbol2} ${prefix}delttt
+${symbol2} ${prefix}tictactoe
+${symbol2} ${prefix}family100
+${symbol2} ${prefix}tebak [option]
+${symbol2} ${prefix}math [mode]
+${symbol2} ${prefix}suitpvp [@tag]
 
 *Group*
-> linkgroup
-> ephemeral [option]
-> setppgc [image]
-> setname [text]
-> setdesc [text]
-> group [option]
-> editinfo [option]
-> add @user
-> kick @user
-> hidetag [text]
-> tagall [text]
-> totag [reply]
-> antilink [on/off]
-> mute [on/off]
-> promote @user
-> demote @user
-> vote [text]
-> devote
-> upvote
-> cekvote
-> hapusvote
+${symbol2} ${prefix}linkgroup
+${symbol2} ${prefix}ephemeral [option]
+${symbol2} ${prefix}setppgc [image]
+${symbol2} ${prefix}setname [text]
+${symbol2} ${prefix}setdesc [text]
+${symbol2} ${prefix}group [option]
+${symbol2} ${prefix}editinfo [option]
+${symbol2} ${prefix}add @user
+${symbol2} ${prefix}kick @user
+${symbol2} ${prefix}hidetag [text]
+${symbol2} ${prefix}tagall [text]
+${symbol2} ${prefix}totag [reply]
+${symbol2} ${prefix}antilink [on/off]
+${symbol2} ${prefix}mute [on/off]
+${symbol2} ${prefix}promote @user
+${symbol2} ${prefix}demote @user
+${symbol2} ${prefix}vote [text]
+${symbol2} ${prefix}devote
+${symbol2} ${prefix}upvote
+${symbol2} ${prefix}cekvote
+${symbol2} ${prefix}hapusvote
 
 *Convert*
-> sticker
-> stickergif
-> stickerwm
-> ebinary
-> dbinary
-> emojimix
+${symbol2} ${prefix}sticker
+${symbol2} ${prefix}stickergif
+${symbol2} ${prefix}stickerwm
+${symbol2} ${prefix}ebinary
+${symbol2} ${prefix}dbinary
+${symbol2} ${prefix}emojimix
 
-*Others*
-> tts [text] (text to spech)
+*Other*
+${symbol2} ${prefix}ttsen [text] (text to spech english)
+${symbol2} ${prefix}ttsid [text] (text to spech indo)
+
+*Tools*
+${symbol2} ${prefix}styletext [text]
+${symbol2} ${prefix}ssweb [url]
 
 *Owner*
-> self
-> public
-> delete (msg)`
+${symbol2} ${prefix}self
+${symbol2} ${prefix}public
+${symbol2} ${prefix}delete (msg)`
       	  let buttons = [
                     {buttonId: `rules`, buttonText: {displayText: 'Rules'}, type: 1},
                     {buttonId: `donasi`, buttonText: {displayText: 'Donasi'}, type: 1},
@@ -757,7 +738,7 @@ Atau Bahkan Terbanned Dari
 Pihak WhatsApp
 
 You : Scriptnya Beli Dimana?
-Bot: Wa.me/6289512545999
+Bot : Script nya gratis kok, link: https://github.com/Danzzxcodes/basebot-v1
 
 You : Boleh Masukin Ke Grup Saia
 Tidak?
@@ -797,7 +778,7 @@ Ini`
       	  let buttons = [
                     {buttonId: `menu`, buttonText: {displayText: 'Menu'}, type: 1},
                     {buttonId: `donasi`, buttonText: {displayText: 'Donasi'}, type: 1},
-                    {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
+                    {buttonId: `tqto`, buttonText: {displayText: 'Thanks To'}, type: 1}
                 ]
                 let buttonMessage = {
                     image: { url: 'https://telegra.ph/file/6d3a9d6f88c9d5bbb0330.jpg' },
@@ -837,7 +818,7 @@ let buttons = [
         
         // Features
         // Downloader
-        case 'ytplay': case 'ytplaymp3': {
+        case 'play': case 'ytplay': case 'ytplaymp3': {
          	if (!q) throw `Example : ${prefix + command} title`
          	m.reply(mess.wait)
              let ytplaymp3 = await fetchJson(`https://danzzapi.xyz/api/downloader/ytplaymp3?query=${q}&apikey=${global.apikeyprem}`)
@@ -995,7 +976,7 @@ let buttons = [
 			break
 		
 		// Search        
-		case 'sticker': {
+		case 'stickersearch': {
 			if (!q) throw `Example : ${prefix + command} meme`
 			m.reply(mess.wait)
 			let stick = await fetchJson(`https://danzzapi.xyz/api/search/sticker?query=${q}&apikey=${global.apikey}`)
@@ -1004,11 +985,11 @@ let buttons = [
 		}
 		break
 		
-		case 'gcwa': {
+		case 'gcwa': case 'groupwa': {
 			if (!q) throw `Example : ${prefix + command} kawan`
 			m.reply(mess.wait)
 			let gcw = await fetchJson(`https://danzzapi.xyz/api/search/gcwa?query=${q}&apikey=${global.apikey}`)
-			let gcwa = `*Result:*\n${gcw.result.nama}`
+			let gcwa = `*Result:*\nName: ${gcw.result.nama}\nLink: ${gcw.result.link}`
 			m.reply(`${gcwa}`)
 		}
 		break
@@ -1023,34 +1004,25 @@ let buttons = [
 		break
 		
 		// Text Pro
-		case '3dchristmas': case '3ddeepsea': case 'americanflag': case '3dscifi': case '3drainbow': case '3dwaterpipe': case 'halloweenskeleton': case 'sketch': case 'bluecircuit': case 'space': case 'metallic': case 'fiction': case 'greenhorror': case 'transformer': case 'berry': case 'thunder': case 'magma': case '3dcrackedstone': case '3dneonlight': case 'impressiveglitch': case 'naturalleaves': case 'fireworksparkle': case 'matrix': case 'dropwater':  case 'harrypotter': case 'foggywindow': case 'neondevils': case 'christmasholiday': case '3dgradient': case 'blackpink': case 'gluetext': {
+		case 'pencil': case 'glitch': case'glitch2': case 'glitchtiktok': case 'berry': case 'blackpink': case 'neon': case 'logobear': case '3dchristmas': case 'thunder': case '3dbox': case 'video-game-classic': case 'marvel-studios': case 'ninja-logo': case 'green-horror': case 'magma': case '3d-neon-light': case '3d-orange-juice': case 'chocolate-cake': case '3dcrackedstone': case 'strawberry': {
                 if (!text) throw `Example : ${prefix + command} text`
                 m.reply(mess.wait)
-                danzz.sendMessage(m.chat, { image: { url: api('zenz', '/textpro/' + command, { text: text }, 'apikey') }, caption: `Text Pro ${command}` }, { quoted: m})
+                danzz.sendMessage(m.chat, { image: { url: `https://danzzapi.xyz/api/textpro/${command}?text=${text}&apikey=${global.apikey}` }, caption: `Done` }, { quoted: m })
 	    }
-            break
+        break
             
         // Photo Oxy
-	    case 'shadow': case 'romantic': case 'smoke': case 'burnpapper': case 'naruto': case 'lovemsg': case 'grassmsg': case 'lovetext': case 'coffecup': case 'butterfly': case 'harrypotter': case 'retrolol': {
-                if (!text) throw 'No Query Text'
+	    case 'flaming': case 'shadow-sky': case 'metallic': case 'pubg': case 'naruto': case 'under-grass': case 'harry-potter': case 'flower-typography': case 'night-sky': {
+                if (!text) throw 'No Text'
                 m.reply(mess.wait)
-                danzz.sendMessage(m.chat, { image: { url: api('zenz', '/photooxy/' + command, { text: text }, 'apikey') }, caption: `Photo Oxy ${command}` }, { quoted: m })
+                danzz.sendMessage(m.chat, { image: { url: `https://danzzapi.xyz/api/photooxy/${command}?text=${text}&apikey=${global.apikey}` }, caption: `Done` }, { quoted: m })
             }
             break
             
-           // Ephoto
-            case 'ffcover': case 'crossfire': case 'galaxy': case 'glass': case 'neon': case 'beach': case 'blackpink': case 'igcertificate': case 'ytcertificate': {
-                if (!text) throw 'No Query Text'
-                m.reply(mess.wait)
-                danzz.sendMessage(m.chat, { image: { url: api('zenz', '/ephoto/' + command, { text: text }, 'apikey') }, caption: `Ephoto ${command}` }, { quoted: m })
-            }
-            break
-		
 		// Maker
 		case 'attp': case 'ttp': {
            if (!text) throw `Example : ${prefix + command} text`
-           await danzz.sendMedia(m.chat, `https://xteam.xyz/${command}?file&text=${text}`, 'hisoka', 'morou', m, {asSticker: true})
-
+           await danzz.sendMedia(m.chat, `https://xteam.xyz/${command}?file&text=${text}`, 'danzz', 'coding', m, {asSticker: true})
          }
          break
         
@@ -1857,13 +1829,38 @@ let teks = `══✪〘 *👥 Tag All* 〙✪══
 	    break
 	  
 		// Others
-         case 'texttospech': case 'tts': {
+         case 'ttsen': {
+         	if (!text) throw `Example : ${prefix + command} text`
+         	m.reply(mess.wait)
+             let tts = await fetchJson(`https://danzzapi.xyz/api/tools/tts?text=${text}&lang=en-US&apikey=${global.apikey}`)
+             danzz.sendMessage(m.chat, { audio: { url: tts.result }, mimetype: 'audio/mpeg', fileName: `${text}.mp3` }, { quoted: m })
+         	}
+         break
+         
+         case 'ttsid': {
          	if (!text) throw `Example : ${prefix + command} text`
          	m.reply(mess.wait)
              let tts = await fetchJson(`https://danzzapi.xyz/api/tools/tts?text=${text}&lang=id-ID&apikey=${global.apikey}`)
              danzz.sendMessage(m.chat, { audio: { url: tts.result }, mimetype: 'audio/mpeg', fileName: `${text}.mp3` }, { quoted: m })
          	}
          break
+         
+       // Tools
+       case 'styletext': {
+       	if (!text) throw `Example: ${prefix + command} text`
+       	let st = await getBuffer(`https://danzzapi.xyz/api/tools/styletext?text=${text}&apikey=${global.apikeyprem}`)
+       	let styletext = `${st}`
+       	m.reply(`${styletext}`)
+       }
+       break
+       
+       case 'ss': case 'ssweb': {
+        	if (!url) throw `Example : ${prefix + command} url`
+        	m.reply(mess.wait)
+			ssweb = await getBuffer(`https://danzzapi.xyz/api/tools/sswebdesktop?url=${url}&apikey=${global.apikey}`)
+			danzz.sendMessage(m.chat, {image: ssweb, mimetype: 'image/png', caption: `Done`}, {quoted:m})
+			}
+			break
          
          // Owner Menu
          case 'self': {

@@ -10,16 +10,18 @@ global.APIKeys = {
 }
 
 // Other
-global.apikey = ['YOUR APIKEY']
-global.apikeyprem = ['YOUR APIKEY']
+global.apikey = ['danzz'] // Get in: https://danzzapi.xyz
+global.apikeyprem = ['razanxx'] // Get in: https://danzzapi.xyz
+global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.namabot = ['Danzz Botz']
 global.namaowner = ['Danzz Coding']
 global.owner = ['6289512545999']
 global.premium = ['6289512545999']
-global.packname = '© Created By'
-global.author = 'Danzz Coding'
+global.packname = '© Powered By'
+global.author = 'https://danzzapi.xyz'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefix = ['']
 global.symbol1 = '•'
 global.symbol2 = '>'
 global.wm = '© Danzz Coding'
@@ -36,8 +38,9 @@ global.mess = {
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Pukul 00:00 WIB.',
 }
 global.limitawal = {
-    premium: "unlimited",
-    free: 100
+	free: "100",
+    premium: "1000",
+    vip: "unlimited"
 }
 global.thumb = fs.readFileSync('./media/img/1.jpg')
 global.qris = { url: 'https://telegra.ph/file/cd0372ebf13b265f3feb5.jpg' }
