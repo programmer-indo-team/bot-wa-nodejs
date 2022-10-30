@@ -1,4 +1,4 @@
-# Example bot from RestAPIs
+# Example bot from Rest APIs
 <a href="https://danzzapi.xyz">danzzapi.xyz</a>
 
 ## Intalasi
