@@ -25,8 +25,7 @@ Not have apikey? Open: https://danzzapi.xyz
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install Ffmpeg [`Click Here`](https://ffmpeg.org/download.html)
 
 ```
 > git clone https://github.com/Danzzxcodes/basebot-v1
