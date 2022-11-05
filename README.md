@@ -19,6 +19,8 @@
 ```
 
 ## Heroku buildpack
+```NODE.JS :```<br>
+heroku/nodejs
 
 ```FFMPEG :```
 https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest.git
