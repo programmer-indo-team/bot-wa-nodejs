@@ -6,7 +6,7 @@ global.APIs = {
 }
 
 global.APIKeys = {
-	'https://danzzapi.xyz': 'danzz',
+	'https://danzzapi.xyz': 'YOUR APIKEY',
 }
 
 // Other
