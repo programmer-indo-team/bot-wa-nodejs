@@ -32,6 +32,12 @@
 > npm start
 ```
 
+## For replit
+1. Regist in https://replit.com
+2. Click import from github
+3. Enter link: https://github.com/Danzzxcodes/basebot-v1
+4. Run/click green button
+
 ## Heroku buildpack
 ```NODE.JS:```<br>
 heroku/nodejs
