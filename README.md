@@ -1,5 +1,8 @@
-# Example bot from Rest APIs
+## Example bot from Rest APIs
 <a href="https://danzzapi.xyz">danzzapi.xyz</a>
+
+## Please enter apikey in set.js
+Not have apikey? Open: https://danzzapi.xyz
 
 ## Intalasi
 ### For termux
