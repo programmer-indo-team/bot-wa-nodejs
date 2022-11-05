@@ -34,9 +34,10 @@
 
 ## For replit
 1. Regist in https://replit.com
-2. Click import from github
-3. Enter link: https://github.com/Danzzxcodes/basebot-v1
-4. Run/click green button
+2. Click plus button
+3. Click import from github
+4. Enter link: https://github.com/Danzzxcodes/basebot-v1
+5. Run/click green button
 
 ## Heroku buildpack
 ```NODE.JS:```<br>
