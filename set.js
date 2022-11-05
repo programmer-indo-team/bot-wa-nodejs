@@ -39,8 +39,8 @@ global.mess = {
 }
 global.limitawal = {
 	free: "100",
-    premium: "1000",
-    vip: "unlimited"
+        premium: "1000",
+        vip: "unlimited"
 }
 global.thumb = fs.readFileSync('./media/img/1.jpg')
 global.qris = { url: 'https://telegra.ph/file/cd0372ebf13b265f3feb5.jpg' }
