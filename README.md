@@ -18,18 +18,6 @@
 > npm start
 ```
 
-## Heroku buildpack
-```NODE.JS :```<br>
-heroku/nodejs
-
-```FFMPEG :```
-https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest.git
-
-```WEBP :```
-https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
-
----------
-
 ## For windows/RDP
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
@@ -44,6 +32,17 @@ https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
 > npm start
 ```
 
+## Heroku buildpack
+```NODE.JS:```<br>
+heroku/nodejs
+
+```FFMPEG:```
+https://github.com/Danzzxcodes/heroku-buildpack-ffmpeg-latest.git
+
+```WEBP:```
+https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
+
+---------
 
 ## Features list
 * Downloader
