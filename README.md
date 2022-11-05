@@ -55,7 +55,7 @@ https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
 * Photo oxy
 * Ephoto
 * convert
-* Others
+* Other
 * Owner
 
 ## Social media
