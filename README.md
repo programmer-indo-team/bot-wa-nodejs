@@ -41,6 +41,13 @@ Not have apikey? Open: https://danzzapi.xyz
 4. Enter link: https://github.com/Danzzxcodes/basebot-v1
 5. Run/click green button
 
+## Replit buildpack
+```FFMPEG```<br>
+pkgs install ffmpeg
+
+```WEBP```<br>
+pkgs install libwebp
+
 ## Heroku buildpack
 ```NODE.JS:```<br>
 heroku/nodejs
